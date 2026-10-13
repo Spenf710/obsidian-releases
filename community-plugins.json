@@ -61612,5 +61612,12 @@
     "author": "Charles Kelsoe",
     "description": "Shows Annoteca comment badges on Mind map editor nodes and lets you comment on a node. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ckelsoe/obsidian-annoteca-mindmap-bridge"
+  },
+  {
+    "id": "codem-chat",
+    "name": "CodeM Chat",
+    "author": "Pengfei Sun",
+    "description": "Embeds CodeM (Feishu AI coding agent) as a sidebar chat in your vault. Your vault becomes its working directory.",
+    "repo": "Spenf710/codem-obsidian-chat"
   }
 ]
